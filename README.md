@@ -1,3 +1,3 @@
 # calculadora-conversion-diamantes
-Luis Flores
-Emerson Guapi
+*Luis David Flores Hurtado --
+*Emerson Guapi --
